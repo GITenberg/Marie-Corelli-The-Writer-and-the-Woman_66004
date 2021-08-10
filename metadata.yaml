@@ -1,0 +1,30 @@
+_repo: Marie-Corelli-The-Writer-and-the-Woman_66004
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bell, R. S. Warren (Robert Stanley Warren)
+    aliases:
+    - Bell, Warren
+    - Bell, Robert Stanley Warren
+    - Warren Bell, R. S. (Robert Stanley)
+    birthdate: 1871
+    gutenberg_agent_id: '48408'
+    url: http://www.gutenberg.org/2009/agents/48408
+  - agent_name: Coates, T. F. G.
+    gutenberg_agent_id: '53588'
+    url: http://www.gutenberg.org/2009/agents/53588
+description: ''
+gutenberg_issued: '2021-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Marie Corelli
+
+  The Writer and the Woman'
+url: http://www.gutenberg.org/ebooks/66004
